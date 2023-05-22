@@ -7,5 +7,14 @@
       "place": "Visakhapatnam",
       "gender": "Male"
     }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Spider",
+      "age": 27,
+      "place": "Delhi",
+      "gender": "Male"
+    }
   ]
 }
